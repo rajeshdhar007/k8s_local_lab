@@ -1,4 +1,4 @@
-# Kubernetes Local Lab
+# Kubernetes Local Lab 🚥
 
 ## Pre-requisites:
 You need to have the following tools installed on your local machine:
@@ -35,7 +35,7 @@ The IP of ```kubemaster``` is ```192.168.56.2```. Ofcourse, all these can be cha
 
 4. On all three servers (kubemaster, kubenode01 and kubenode02):
    - ### Install Container Runtime:
-        We will use Docker for our container runtime:
+        We will use Docker for our container runtime 🐳:
         Ref: https://kubernetes.io/docs/setup/production-environment/container-runtimes/#docker
 
         ```
@@ -163,3 +163,5 @@ The IP of ```kubemaster``` is ```192.168.56.2```. Ofcourse, all these can be cha
 
    kubectl get nodes
    ```
+
+## Congratulations!! 😊
